@@ -7,7 +7,7 @@
 - Пагінацію
 - Not-Found сторінку
 
-## Інструкція по запуску
+## Таймлайни розробки
 
 За посиланням <a href="https://docs.google.com/document/d/1O8CB3oqzEHl9wbIwlSQx1InKAHDI_B3nXOUP_y_X-x0/edit?hl=ru&tab=t.0">Google Docs</a> можна ознайомитися з детальним описом таймлайнів розробки.
 
